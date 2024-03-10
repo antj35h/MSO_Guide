@@ -1,4 +1,6 @@
-**Welcome to my guide on how to install and activate MS Office.**
+> Piracy is our only option. ~ Emma Thompson
+
+**Welcome to the high seas 🏴‍☠️, here is my guide on how to install and activate MS Office.**
 
 If you already have Office installed → [here](README.md#Installed%20Office)
 
