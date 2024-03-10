@@ -1,6 +1,7 @@
-Welcome to my guide on how to install and activate MS Office.
+**Welcome to my guide on how to install and activate MS Office.**
 
 If you already have Office installed → [here](README.md#Installed%20Office)
+
 If you don't → [here](README.md#Step%201%20-%20Configuring%20Installation)
 
 ---
@@ -10,9 +11,11 @@ If you don't → [here](README.md#Step%201%20-%20Configuring%20Installation)
 To configure installation, you need to download...a configuration file.
 
 If you want to do it from scratch, go here → **Office Customization Tool** - [here](https://www.microsoft.com/en-us/download/details.aspx?id=49117)
+
 If you want a file made from default setting from your Windows OS → [here](assets/OfficeConfig.xml)
 
 If you do not want to do this step and prefer an easier way → [here](README.md#Have%20not%20installed%20Office)
+
 # Step 2 - Installation
 
 Now that you have your config file, let's use that to install Office.
@@ -104,7 +107,7 @@ OR
 
 # Step 5
 
-Your Office should be activated by this step. Congrats!
+**Your Office should be ACTIVATED by this step. Congrats!**
 
 If in case your Office gets de-activated in the future, re-do [these steps](README.md#Installed%20Office).
 
