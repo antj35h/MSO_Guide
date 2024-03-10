@@ -1,7 +1,7 @@
 Welcome to my guide on how to install and activate MS Office.
 
-If you already have Office installed → [here](README.md#Installed%20Office)
-If you don't → [here](README.md#Step%201%20-%20Configuring%20Installation)
+If you already have Office installed → [here](README%20-%20draft.md#Installed%20Office)
+If you don't → [here](README%20-%20draft.md#Step%201%20-%20Configuring%20Installation)
 
 ---
 
@@ -12,7 +12,7 @@ To configure installation, you need to download...a configuration file.
 If you want to do it from scratch, go here → **Office Customization Tool** - [here](https://www.microsoft.com/en-us/download/details.aspx?id=49117)
 If you want a file made from default setting from your Windows OS → [here](assets/OfficeConfig.xml)
 
-If you do not want to do this step and prefer an easier way → [here](README.md#Have%20not%20installed%20Office)
+If you do not want to do this step and prefer an easier way → [here](README%20-%20draft.md#Have%20not%20installed%20Office)
 # Step 2 - Installation
 
 Now that you have your config file, let's use that to install Office.
@@ -28,13 +28,17 @@ Now that you have your config file, let's use that to install Office.
 9. **Restart** your device when installation is done.
 
 
-> [!HELP] **Open in Terminal** not there
+> [!NOTE]
+> **Open in Terminal** not there
+> 
 > You may be using Windows 10, or just don't have that option, then:
 > 1. Open the folder
-> 2. ALT-D or CTRL-L
+> 2. ALT+D or CTRL+L
 > 3. Type in `powershell` and ENTER
 
-> [!WARNING] Stay Online!
+> [!WARNING] 
+> **Stay Online!**
+> 
 > Do not go offline or shut your device down until the installation finishes.
 
 # Step 3 - MAS - Microsoft Activation Scripts
@@ -43,7 +47,7 @@ Check out MAS - [here](https://massgrave.dev/index.html)
 
 ## Have not installed Office
 
-If you choose to not perform [Step 1](README.md#Step%201%20-%20Configuring%20Installation) & [Step 2](README.md#Step%202%20-%20Installation), then:
+If you choose to not perform [Step 1](README%20-%20draft.md#Step%201%20-%20Configuring%20Installation) & [Step 2](README%20-%20draft.md#Step%202%20-%20Installation), then:
 
 1. Right-click on the Windows start menu and select **PowerShell** or **Terminal**.
 2. Copy and paste the code `irm https://massgrave.dev/get | iex` and press ENTER.
@@ -53,7 +57,9 @@ If you choose to not perform [Step 1](README.md#Step%201%20-%20Configuring%20Ins
 
 Once you got your Office setup files, run it and wait for installation to get over with. **Restart** your device when installation is done.
 
-> [!WARNING] Stay Online!
+> [!WARNING] 
+> **Stay Online!**
+> 
 > Do not go offline or shut your device down until the installation finishes.
 
 ## Installed Office
@@ -67,7 +73,7 @@ Now that you have installed Office successfully, follow:
 5. Follow the on-screen instructions based on the results, i.e., if the activation was successful or not.
 6. Once the activation is successful, restart your device (optional, but recommended) and...
 
-Office has been activated, to check - [here](README.md#Step%204%20-%20Check%20Activation%20status).
+Office has been activated, to check - [here](README%20-%20draft.md#Step%204%20-%20Check%20Activation%20status).
 
 ## Method - 2
 
@@ -82,7 +88,7 @@ The above steps require you to paste a code into **PowerShell**. This method is 
 5. Follow the on-screen instructions based on the results, i.e., if the activation was successful or not.
 6. Once the activation is successful, restart your device (optional, but recommended) and...
 
-Office has been activated, to check - [here](README.md#Step%204%20-%20Check%20Activation%20status).
+Office has been activated, to check - [here](README%20-%20draft.md#Step%204%20-%20Check%20Activation%20status).
 
 # Step 4 - Check Activation status
 
@@ -100,7 +106,7 @@ OR
 
 Your Office should be activated by this step. Congrats!
 
-If in case your Office gets de-activated in the future, re-do [these steps](README.md#Installed%20Office).
+If in case your Office gets de-activated in the future, re-do [these steps](README%20-%20draft.md#Installed%20Office).
 
 ---
 
