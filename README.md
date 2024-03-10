@@ -34,7 +34,7 @@ Now that you have your config file, let's use that to install Office.
 
 
 > [!NOTE]
-> **Open in Terminal** not there
+> **Open in Terminal** option not there
 > 
 > You may be using Windows 10, or just don't have that option, then:
 > 1. Open the folder
