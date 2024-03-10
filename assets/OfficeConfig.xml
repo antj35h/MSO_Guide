@@ -1,0 +1,15 @@
+<Configuration ID="7df133ee-0179-4fb1-aef9-dd1a95d3a5f4">
+  <Add OfficeClientEdition="64" Channel="Current" MigrateArch="TRUE">
+    <Product ID="O365ProPlusRetail">
+      <Language ID="MatchOS" />
+      <ExcludeApp ID="Access" />
+      <ExcludeApp ID="Groove" />
+      <ExcludeApp ID="Lync" />
+      <ExcludeApp ID="Outlook" />
+      <ExcludeApp ID="Bing" />
+    </Product>
+  </Add>
+  <Updates Enabled="TRUE" />
+  <RemoveMSI />
+  <Display Level="Full" AcceptEULA="TRUE" />
+</Configuration>
