@@ -4,7 +4,7 @@
 
 If you already have Office installed → [here](README.md#Installed%20Office)
 
-If you don't → [here](https://github.com/antj35h/MSO_Guide/edit/main/README.md#step-1---configuring-installation)
+If you don't → [here](README.md#step-1---configuring-installation)
 
 ---
 
