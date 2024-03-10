@@ -4,7 +4,7 @@
 
 If you already have Office installed → [here](#installed-office)
 
-If you don't → [here](https://github.com/antj35h/MSO_Guide/blob/main/README.md#step-1---configuring-installation)
+If you don't → [here](#step-1---configuring-installation)
 
 ---
 
@@ -16,7 +16,7 @@ If you want to do it from scratch, go here → **Office Customization Tool** - [
 
 If you want a file made from default setting from your Windows OS, download this file [here](assets/OfficeConfig.xml)
 
-If you do not want to do this step and prefer an easier way → [here](README.md#Have%20not%20installed%20Office)
+If you do not want to do this step and prefer an easier way → [here](#have-not-installed-office)
 
 # Step 2 - Installation
 
@@ -52,7 +52,7 @@ Check out MAS - [here](https://massgrave.dev/index.html)
 
 ## Have not installed Office
 
-If you choose to not perform [Step 1](README.md#Step%201%20-%20Configuring%20Installation) & [Step 2](README.md#Step%202%20-%20Installation), then:
+If you choose to not perform [Step 1](#step-1---configuring-installation) & [Step 2](#step-2---installation), then:
 
 1. Right-click on the Windows start menu and select **PowerShell** or **Terminal**.
 2. Copy and paste the code `irm https://massgrave.dev/get | iex` and press ENTER.
@@ -78,7 +78,7 @@ Now that you have installed Office successfully, follow:
 5. Follow the on-screen instructions based on the results, i.e., if the activation was successful or not.
 6. Once the activation is successful, restart your device (optional, but recommended) and...
 
-Office has been activated, to check - [here](README.md#Step%204%20-%20Check%20Activation%20status).
+Office has been activated, to check - [here](#step-4---check-activation-status).
 
 ## Method - 2
 
@@ -93,7 +93,7 @@ The above steps require you to paste a code into **PowerShell**. This method is 
 5. Follow the on-screen instructions based on the results, i.e., if the activation was successful or not.
 6. Once the activation is successful, restart your device (optional, but recommended) and...
 
-Office has been activated, to check - [here](README.md#Step%204%20-%20Check%20Activation%20status).
+Office has been activated, to check - [here](#Step%204%20-%20Check%20Activation%20status).
 
 # Step 4 - Check Activation status
 
