@@ -93,7 +93,7 @@ The above steps require you to paste a code into **PowerShell**. This method is 
 5. Follow the on-screen instructions based on the results, i.e., if the activation was successful or not.
 6. Once the activation is successful, restart your device (optional, but recommended) and...
 
-Office has been activated, to check - [here](#Step%204%20-%20Check%20Activation%20status).
+Office has been activated, to check - [here](#step-4---check-activation-status).
 
 # Step 4 - Check Activation status
 
@@ -111,7 +111,7 @@ OR
 
 **Your Office should be ACTIVATED by this step. Congrats!**
 
-If in case your Office gets de-activated in the future, re-do [these steps](README.md#Installed%20Office).
+If in case your Office gets de-activated in the future, re-do [these steps](#installed-office).
 
 ---
 
