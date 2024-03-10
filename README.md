@@ -10,7 +10,7 @@ If you don't → [here](README.md#Step%201%20-%20Configuring%20Installation)
 To configure installation, you need to download...a configuration file.
 
 If you want to do it from scratch, go here → **Office Customization Tool** - [here](https://www.microsoft.com/en-us/download/details.aspx?id=49117)
-If you want a file made from default setting from your Windows OS → %% Office.xml file %%
+If you want a file made from default setting from your Windows OS → [here](assets/OfficeConfig.xml)
 
 If you do not want to do this step and prefer an easier way → [here](README.md#Have%20not%20installed%20Office)
 # Step 2 - Installation
@@ -28,13 +28,13 @@ Now that you have your config file, let's use that to install Office.
 9. **Restart** your device when installation is done.
 
 
-> [!help] **Open in Terminal** not there
+> [!HELP] **Open in Terminal** not there
 > You may be using Windows 10, or just don't have that option, then:
 > 1. Open the folder
 > 2. ALT-D or CTRL-L
 > 3. Type in `powershell` and ENTER
 
-> [!warning] Stay Online!
+> [!WARNING] Stay Online!
 > Do not go offline or shut your device down until the installation finishes.
 
 # Step 3 - MAS - Microsoft Activation Scripts
@@ -53,7 +53,7 @@ If you choose to not perform [Step 1](README.md#Step%201%20-%20Configuring%20Ins
 
 Once you got your Office setup files, run it and wait for installation to get over with. **Restart** your device when installation is done.
 
-> [!warning] Stay Online!
+> [!WARNING] Stay Online!
 > Do not go offline or shut your device down until the installation finishes.
 
 ## Installed Office
