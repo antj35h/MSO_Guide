@@ -14,7 +14,7 @@ To configure installation, you need to download...a configuration file.
 
 If you want to do it from scratch, go here → **Office Customization Tool** - [here](https://www.microsoft.com/en-us/download/details.aspx?id=49117)
 
-If you want a file made from default setting from your Windows OS → [here](assets/OfficeConfig.xml)
+If you want a file made from default setting from your Windows OS, download this file [here](assets/OfficeConfig.xml)
 
 If you do not want to do this step and prefer an easier way → [here](README.md#Have%20not%20installed%20Office)
 
