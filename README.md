@@ -2,9 +2,9 @@
 
 **Welcome to the high seas 🏴‍☠️, here is my guide on how to install and activate MS Office.**
 
-If you already have Office installed → [here](#installed-office)
+If you already have Office installed → [start here](#installed-office)
 
-If you don't → [here](#step-1---configuring-installation)
+If you don't → [start here](#step-1---configuring-installation)
 
 ---
 
