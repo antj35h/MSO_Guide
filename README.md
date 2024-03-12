@@ -27,7 +27,7 @@ Now that you have your config file, let's use that to install Office.
 3. Download the **Office Deployment Tool** [here](https://www.microsoft.com/en-us/download/details.aspx?id=49117).
 4. Standard Procedures: Open, YES to UAC prompt, accept the EULA, select the folder you made on desktop.
 5. Once the extraction is done, open the folder.
-6. Right-click and **Open in Terminal**
+6. Right-click and **Open in Terminal** *(ℹ - See note below if option not found)*
 7. In the terminal, paste - `.\setup.exe /configure OfficeConfig.xml`, and ENTER.
 8. Again, YES to UAC prompt, and wait for installation to get over with.
 9. **Restart** your device when installation is done.
